@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.trivialcomida">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher_trivial_comida"
+        android:label="App Trivial"
+        android:roundIcon="@mipmap/ic_launcher_trivial_comida_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.TrivialComida">
+        <activity android:name=".MainActivity" android:launchMode="singleTop">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".GalleryActivity"
+            android:parentActivityName=".MainActivity"/>
+    </application>
+
+</manifest>

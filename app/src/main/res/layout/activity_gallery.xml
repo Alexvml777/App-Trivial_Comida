@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="100">
+
+        <ImageView
+            android:id="@+id/gimage_plate"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="70"
+            android:scaleType="centerCrop"
+            android:src="@mipmap/ic_launcher_trivial_comida" />
+
+
+
+        <TextView
+            android:id="@+id/gplate_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:paddingTop="15dp"
+            android:text="Prato"
+            android:textAlignment="center"
+            android:textColor="@android:color/black"
+
+            android:textSize="28sp" />
+
+        <TextView
+            android:id="@+id/gplate_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:paddingLeft="15dp"
+            android:paddingTop="8dp"
+            android:paddingRight="15dp"
+            android:text="Descrição"
+
+            android:textAlignment="center"
+            android:textColor="#363636"
+            android:textSize="22sp" />
+
+    </LinearLayout>
+
+    <!-- Test late
+    <TextView
+        android:id="@+id/gplate_price"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+
+        android:text="Preço"
+        android:textAlignment="center"
+        android:textColor="@android:color/red"
+        android:textSize="28sp"
+
+        android:paddingBottom="20dp"
+        />
+         end -->
+
+</RelativeLayout>
