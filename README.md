@@ -8,12 +8,12 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-demonstracao">Demonstração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-licença">Licença</a>
+  <a href="#clapper-demonstracao">Demonstração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#pencil-licença">Licença</a>
 </p>
 
 <p align="center">
-  <img alt="App Trivial Comida" src=".github/Rocket_Q.png" width="100%">
+  <img alt="App Trivial Comida" src="README.md" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -52,7 +52,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   2. Glide (Para pegar as imagens da internet)
   3. Circle ImageView (Para arrendondar as imagens na lista)
   
-##:clapper:Demonstração
+## :clapper: Demonstração
 
 Você pode visualizar a demo do projeto funcionando [CLICANDO AQUI](https://youtu.be/Mc1WTosj7PA). Você será redirecionado ao Youtube para vê-lo.
 
