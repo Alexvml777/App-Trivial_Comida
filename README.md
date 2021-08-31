@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img alt="App Trivial Comida" src="README.md" width="100%">
+  <img alt="App Trivial Comida" src="https://user-images.githubusercontent.com/48816891/119742414-27457a00-be5e-11eb-825d-c59cefbde8ab.png" width="80%">
 </p>
 
 ## 🚀 Tecnologias
@@ -55,6 +55,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## :clapper: Demonstração
 
 Você pode visualizar a demo do projeto funcionando [CLICANDO AQUI](https://youtu.be/Mc1WTosj7PA). Você será redirecionado ao Youtube para vê-lo.
+<p align="center">
+  <img alt="Lista de Pratos - Trivial Comida" src="https://user-images.githubusercontent.com/48816891/119742447-33c9d280-be5e-11eb-9e46-a66aef0241d9.png" width="25%">
+  <img alt="Detalhes do Prato - Trivial Comida" src="https://user-images.githubusercontent.com/48816891/119742445-3298a580-be5e-11eb-8058-af49f57d227e.png" width="25%">
+</p>
 
 ## :pencil: Licença
 
